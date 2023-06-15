@@ -1,6 +1,19 @@
 
 
 
+/* edit activ li and nav-link in navbar */
+a.active{
+    color: red !important;
+}
+
+a.nav-link:hover{
+    color: red!important;
+}
+
+
+
+
+
 /* Test sections */
 .card{
     
