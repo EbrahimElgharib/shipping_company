@@ -11,6 +11,13 @@ a.nav-link:hover{
 }
 
 
+.facts-section .col-sm-1{
+    width: 0%;
+    padding: 0;
+    margin: 0;
+}
+
+
 
 
 /* Test sections */
